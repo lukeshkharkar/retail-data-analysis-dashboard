@@ -1,31 +1,30 @@
-# retail-data-analysis-dashboard
-Excel-based interactive dashboard for Geetanjali Fashion sales analysis created as part of the Engineering Informatics course
 # Geetanjali Fashion Data Analysis Dashboard
 
-This project contains an interactive Excel-based dashboard created for **Geetanjali Fashion**, a fictional retail clothing store. It was developed as part of the **Engineering Informatics** course assignment.
+An interactive Excel dashboard created as part of the *Engineering Informatics* course to analyze annual sales data of Geetanjali Fashion for 2022.
 
-## 📊 Project Overview
+##  Objective
+To provide business insights through data cleaning and visualization, helping the store understand customer behavior and improve sales strategies.
 
-The dashboard visualizes and analyzes key retail metrics such as:
+##  Key Questions Answered
+- Which month had the highest sales?
+- Who purchased more — men or women?
+- Top 10 sales-contributing states
+- Sales by channel and category
+- Age-gender purchase trends
+- Order delivery performance
 
-- Monthly and annual sales
-- Product category performance
-- Customer segmentation
-- Regional sales distribution
+##  Process
+- Cleaned raw data for consistency and accuracy
+- Created pivot tables and charts
+- Designed an interactive dashboard with slicers
 
-It leverages Excel's **Pivot Tables, Charts**, and **Slicers** to offer an intuitive and interactive experience.
+##  Insights
+- Women made ~65% of purchases
+- Ages 30–49 had the most orders
+- Maharashtra, Karnataka, and UP led in sales
+- Amazon and Flipkart were top sales channels
+- Over 90% of orders were delivered
 
-## 🎯 Objective
-
-To demonstrate data handling, cleaning, and visualization skills using Microsoft Excel. The aim was to transform raw retail sales data into meaningful insights that aid decision-making.
-
-## 🛠 Tools Used
-
-- Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Slicers
-- Data Validation
-- Conditional Formatting
-
-## 📁 File Structure
-
+##  Conclusion
+Geetanjali Fashion can boost sales by targeting marketing efforts toward women aged 30–49 in high-performing regions like Maharashtra. Personalized promotions and better engagement on popular platforms could improve retention and conversion
+---
